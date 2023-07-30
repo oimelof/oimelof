@@ -18,7 +18,7 @@ object Iasmin_Melo {
 ```
 <p align="left">
  <a href="#" alt="Twitter">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=whit&link=https://twitter.com/miminmf0" /></a>
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/miminmf0" /></a>
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/oimelof/" /></a>
 </p> 
